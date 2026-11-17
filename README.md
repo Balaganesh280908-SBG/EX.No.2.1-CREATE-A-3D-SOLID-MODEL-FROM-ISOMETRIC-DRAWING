@@ -11,68 +11,44 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE
+## Step 1 
+Draw a centre rectangle of width 100 mm and height 60 mm. Extrude the rectangle to a length of 30 mm. Draw a circle of diameter 50 mm at the origin and extrude it. 
 
- ### STEP-1:  Start the sketch command
+<img width="203" height="343" alt="image" src="https://github.com/user-attachments/assets/61a7fd68-0a28-43c3-946b-ca7d63e89acc" />
 
-   Select Sketch > Create Sketch.
+## Step 2 
+Switch to the top view and draw a square of 10 mm on each side.Draw a circle of diameter 20 mm on the other side of the base rectangle.
 
- ### STEP-2:  Select the Sketch Plane
+## Step 3 
+Extrude the square and the circle. Position the square and the circle with respect to the sides of the base rectangle, with a dimension of 15 mm each, and extrude them.
 
-   Select the Front (XZ) Plane
+<img width="226" height="126" alt="image" src="https://github.com/user-attachments/assets/0722b829-c540-4e8f-9f28-4debabd5dabc" />
 
-### STEP-3: Create a Rectangle 
+## Step 4
+Draw a rectangle of 30 mm x 10 mm at the top centre of the base rectangle. Use the Chamfer command to make the edge slanting.
 
-   1.	Select Sketch > Rectangle > Center Rectangle.
-   2.	Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
-   3.	Click once to begin placing the rectangle.
-   4.	Type the Tab button and enter the values 100 mm and 60mm for the width and height respectively.
-   5.	Click again to place the rectangle.
-   6.	Click Finish Sketch after completing.
+<img width="235" height="413" alt="image" src="https://github.com/user-attachments/assets/8e2d9d22-c286-4a1d-86d5-7611e7ebd0ca" />
 
- ### STEP-4: Extrude Rectangle in XZ Plane
-   1.	Select Extrude.
-   2.	Select the Rectangle sketch.
-   3.	Click again to place the value.
-   4.	Type in the value of 30mm. 
-   5.	Press ENTER to accept the value.
+## Step 5 
+Click Finish Sketch, then go to Design, choose Drawing and select From Design. Place the front view, top view, side view and isometric view on the sheet.
 
- ### STEP-5:  Start the sketch command
-   Select Sketch > Create Sketch.
- ### STEP-6: Select the Sketch Plane
-   Select the FRON SURFACE of rectangular block 
- ### STEP-7: Create a CIRCLE 
-   1.	Select Sketch >CIRCLE  > CENTER CIRCLE.
-   2.	Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
-   3.	Click once to begin placing the CIRCLE.
-   4.	Type the Tab button and enter the value DIA 100mm .
-   5.	Click again to place the circle.
-   6.	Click Finish Sketch after completing.
+<img width="267" height="147" alt="image" src="https://github.com/user-attachments/assets/e934a808-475c-4fe8-98fd-83af9a480778" />
 
- ### STEP-8:  Extrude CIRCLE 
-   1.	Select Extrude.
-   2.	Select the Rectangle sketch.
-   3.	Click again to place the value.
-   4.	Type in the value of 20mm. 
-   5.	Press ENTER to accept the value.
+<img width="345" height="386" alt="image" src="https://github.com/user-attachments/assets/d03d1889-9a71-4146-99a8-4c3db9044281" />
 
- ### STEP-9: Start the sketch command
-   Select Sketch > Create Sketch.
-   
- ### STEP-10: Select the Sketch Plane
-   Select the TOP SURFACE OF RECTANGLE.
-   
- ### STEP-11: Create a line
-	1.Select Line command.
-	2. Draw the projections in the diagram 
-	3. Click Finish Sketch.
-	4. extrude the sketch.
+<img width="393" height="428" alt="image" src="https://github.com/user-attachments/assets/082a1114-5b35-4321-bb6c-31e7f2d24c4c" />
+
 
 ## INPUT
 ![image](https://user-images.githubusercontent.com/113594316/198495472-9a69edb1-f0c6-470c-b9ae-fe282fa6a678.png)
 
-## OUTPUT
+## OUTPUT DRAWING
 
 <img width="806" height="572" alt="image" src="https://github.com/user-attachments/assets/1f518141-e4c4-4a1c-9195-023780780db4" />
+
+## OUTPUT
+
+<img width="581" height="532" alt="image" src="https://github.com/user-attachments/assets/15d3cddd-48d0-43de-8be0-0ceda548200d" />
 
 
 ## RESULT: 
