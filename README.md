@@ -31,11 +31,11 @@ Draw a rectangle of 30 mm x 10 mm at the top centre of the base rectangle. Use t
 ## Step 5 
 Click Finish Sketch, then go to Design, choose Drawing and select From Design. Place the front view, top view, side view and isometric view on the sheet.
 
-<img width="267" height="147" alt="image" src="https://github.com/user-attachments/assets/e934a808-475c-4fe8-98fd-83af9a480778" />
+# <img width="267" height="147" alt="image" src="https://github.com/user-attachments/assets/e934a808-475c-4fe8-98fd-83af9a480778" />
 
-<img width="345" height="386" alt="image" src="https://github.com/user-attachments/assets/d03d1889-9a71-4146-99a8-4c3db9044281" />
+# <img width="345" height="386" alt="image" src="https://github.com/user-attachments/assets/d03d1889-9a71-4146-99a8-4c3db9044281" />
 
-<img width="393" height="428" alt="image" src="https://github.com/user-attachments/assets/082a1114-5b35-4321-bb6c-31e7f2d24c4c" />
+# <img width="393" height="428" alt="image" src="https://github.com/user-attachments/assets/082a1114-5b35-4321-bb6c-31e7f2d24c4c" />
 
 
 ## INPUT
