@@ -11,7 +11,11 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 
 ## PROCEDURE
 ## Step 1 
-Draw a centre rectangle of width 100 mm and height 60 mm. Extrude the rectangle to a length of 30 mm. Draw a circle of diameter 50 mm at the origin and extrude it. 
+Draw a centre rectangle of width 100 mm and height 60 mm. Extrude the rectangle to a length of 30 mm. Draw a circle of diameter 50 mm at the origin and extrude it.
+- Select the XY plane to create the sketch.
+- Use the Rectangle tool and enter the given dimensions.
+- Use the Circle tool to draw the circle at the origin.
+- Apply the required dimensions using Sketch Dimension. 
 
 <img width="203" height="343" alt="image" src="https://github.com/user-attachments/assets/61a7fd68-0a28-43c3-946b-ca7d63e89acc" />
 
