@@ -20,21 +20,39 @@ Draw a centre rectangle of width 100 mm and height 60 mm. Extrude the rectangle 
 <img width="203" height="343" alt="image" src="https://github.com/user-attachments/assets/61a7fd68-0a28-43c3-946b-ca7d63e89acc" />
 
 ## Step 2 
-Switch to the top view and draw a square of 10 mm on each side.Draw a circle of diameter 20 mm on the other side of the base rectangle.
+Switch to the top view and draw a square of 10 mm on each side. Draw a circle of diameter 20 mm on the other side of the base rectangle.
+- Select the top face of the base model.
+- Create a new sketch on the top surface.
+- Position the square and circle according to the given drawing.
+- Apply the required dimensions accurately.
 
 ## Step 3 
 Extrude the square and the circle. Position the square and the circle with respect to the sides of the base rectangle, with a dimension of 15 mm each, and extrude them.
+- Select both sketch profiles.
+- Click on the Extrude command.
+- Enter the required extrusion distance.
+- Click OK to complete the extrusion.
+- Click Finish Sketch after completing the sketch.
 
 <img width="226" height="126" alt="image" src="https://github.com/user-attachments/assets/0722b829-c540-4e8f-9f28-4debabd5dabc" />
 
 ## Step 4
 Draw a rectangle of 30 mm x 10 mm at the top centre of the base rectangle. Use the Chamfer command to make the edge slanting.
+- Select the top face and create a new sketch.
+- Draw the rectangle at the top centre position.
+- Use the required dimensions to define the rectangle.
+- Apply the Chamfer command to the selected edges.
+- Check the slanting surface in the 3D model.
 
 <img width="235" height="413" alt="image" src="https://github.com/user-attachments/assets/8e2d9d22-c286-4a1d-86d5-7611e7ebd0ca" />
 
 ## Step 5 
 Click Finish Sketch, then go to Design, choose Drawing and select From Design. Place the front view, top view, side view and isometric view on the sheet.
-
+- Select the required drawing sheet size.
+- Choose the ISO standard and millimetre units.
+- Place the front, top and side views.
+- Insert the isometric view on the drawing sheet.
+- Adjust the views properly and save the drawing.
 # <img width="267" height="147" alt="image" src="https://github.com/user-attachments/assets/e934a808-475c-4fe8-98fd-83af9a480778" />
 
 # <img width="345" height="386" alt="image" src="https://github.com/user-attachments/assets/d03d1889-9a71-4146-99a8-4c3db9044281" />
